@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <br />
   <a href="https://vaultica.vercel.app" target="_blank">
   <img src="/public/vaultica.png" alt="Vaultica Logo"/>
