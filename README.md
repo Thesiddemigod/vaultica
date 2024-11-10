@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://vaultica.vercel.app" target="_blank">
-  <img src="/public/vaultica.png" alt="Vaultica Logo"/>
+  <img src="/public/assets/images/vaultica.png" alt="Vaultica Logo"/>
   </a>
   <h1>Vaultica</h1>
   <p>Your files, safeguarded with precision and ease.</p>
